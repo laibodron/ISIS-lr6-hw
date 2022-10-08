@@ -8,3 +8,10 @@ body {
 .pink-color {
     color: pink;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
